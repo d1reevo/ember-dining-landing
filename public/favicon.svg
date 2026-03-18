@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="20" fill="#0D0D0D" />
+  <path
+    d="M31.755 10c4.978 7.617 12.245 13.546 12.245 22.078C44 43.39 35.755 50 28.8 50 20.073 50 14 43.643 14 35.837c0-7.296 4.167-11.934 9.666-17.974.23 4.322 1.261 7.863 4.638 11.532C28.094 23.815 29.403 17.09 31.755 10Z"
+    fill="url(#ember-gradient)"
+  />
+  <defs>
+    <linearGradient id="ember-gradient" x1="18" y1="48" x2="44" y2="14" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8571A" />
+      <stop offset="1" stop-color="#C9952A" />
+    </linearGradient>
+  </defs>
+</svg>
